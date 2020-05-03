@@ -1,0 +1,2 @@
+pacmd list | grep ".monitor"
+
