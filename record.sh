@@ -1,1 +1,4 @@
-sudo pacat --record -d alsa_output.pci-0000_00_1f.3.analog-stereo.monitor > dump.raw
+var=$(./list_devices.sh)
+sudo pacat --record -d $var > dump.raw
+sox -t raw -r 44100 -e signed-integer -L -b 16 -c 2 dump.raw output.wav
+rm dump.raw
