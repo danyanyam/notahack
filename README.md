@@ -4,8 +4,8 @@
 ### Описание проекта
 Проект состоит из нескольких частей:
   1. bash-скрипты. Используются для парсинга всех звуков системы. Скрипт позволяет использовать нейросеть в любых приложениях, издающих звук (Zoom, Discord, MS Teams, Skype и так далее)
-      1.1 list devices.sh
-      1.2 
+      --list devices.sh
+      -- 
   2. python-скрипты. Используются для препроцессинга, логгирования сказанного в текст
   3. jupyter-notebook с туториалом [tutorial.ipynb](https://github.com/danyanyam/notahack/blob/master/tutorial.ipynb)
   4. log.txt - файл формата выходного файла
