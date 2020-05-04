@@ -4,7 +4,7 @@
 Модель состоит из нескольких частей:
   1. bash-скрипт. Используется для парсинга всех звуков системы. Скрипт позволяет использовать нейросеть в любых приложениях, издающих звук (Zoom, Discord, MS Teams, Skype и так далее).
   2. python-скрипт. Используется для препроцессинга, логгирования сказанного в текст. Функционал скрипта позволяет делать следующие вещи:
-  3. jupyter-notebook с туториалом (tutorial.ipynb)[https://github.com/danyanyam/notahack/blob/master/tutorial.ipynb].
+  3. jupyter-notebook с туториалом [tutorial.ipynb](https://github.com/danyanyam/notahack/blob/master/tutorial.ipynb).
   
 ### Установка.
 
