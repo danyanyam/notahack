@@ -12,7 +12,7 @@
 
 1. Скачиваем этот репозиторий к себе на  машину
 
-`!git clone https://github.com/danyanyam/virushack.git`
+`!git clone https://github.com/danyanyam/notahack.git`
 
 
 ### Использование.
