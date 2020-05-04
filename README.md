@@ -8,7 +8,7 @@
   3. jupyter-notebook с туториалом [tutorial.ipynb](https://github.com/danyanyam/notahack/blob/master/tutorial.ipynb).
   
 **Видео с примером использования:**
-[![Видео с использованием](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Видео с использованием](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/0AvAGU5cs4E)
 ### Установка.
 
 Для запуска модели на собственной машине, или удаленном сервере требуется сделать следующую последовательность действий:
