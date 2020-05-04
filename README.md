@@ -18,9 +18,9 @@
 
 2. Скачиваем веса проекта
 
-`!wget http://alphacephei.com/kaldi/models/vosk-model-ru-0.10.zip`
+- `!wget http://alphacephei.com/kaldi/models/vosk-model-ru-0.10.zip` - спич2текст
 
-`!wget http://alphacephei.com/kaldi/models/vosk-model-spk-0.3.zip`
+- `!wget http://alphacephei.com/kaldi/models/vosk-model-spk-0.3.zip` - спич2монологи
 
 `!unzip vosk-model-spk-0.3.zip`
 
