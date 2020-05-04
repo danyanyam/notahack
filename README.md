@@ -44,4 +44,3 @@
 
 6. Файл `ffmpeg_output.wav` содержит запись беседы.
 
-### Credentials.
