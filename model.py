@@ -11,14 +11,14 @@ import os
 def find_person(array):
     database = np.array(list(users.values()))
     distances = []
-    
+
     for i in database:
         distances.append(cosine_dist(array, i))
     min_dist = min(distances)
-    
+
     if min_dist > 0.12:
         return 'UNKNOWN PERSON'
-    
+
     key = distances.index(min_dist)
     return list(users.keys())[key]
 
@@ -52,8 +52,8 @@ def cosine_dist(x, y):
     nx = np.array(x)
     ny = np.array(y)
     return 1 - np.dot(nx, ny) / np.linalg.norm(nx) / np.linalg.norm(ny)
-    
-    
+
+
 users = init_weights(persons)
 
 
@@ -62,7 +62,7 @@ model_path = "vosk-model-ru-0.10"
 # модель 🙉, делающая разбиение текста на диалоги
 spk_model_path = "vosk-model-spk-0.3"
 # путь к войсу
-PATH = 'ffmpeg_output.wav'
+PATH = 'samples/ffmpeg_output.wav'
 
 
 wf = wave.open(PATH, "rb")
