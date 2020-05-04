@@ -7,7 +7,7 @@
   2. python-скрипт. Используется для препроцессинга, логгирования сказанного в текст. Функционал скрипта позволяет делать следующие вещи:
   3. jupyter-notebook с туториалом [tutorial.ipynb](https://github.com/danyanyam/notahack/blob/master/tutorial.ipynb).
   
-**Видео с примером использования:**
+**[Видео](https://youtu.be/0AvAGU5cs4E) с примером использования:**
 [![Видео с использованием](https://i.imgur.com/MsJFLnB.png)](https://youtu.be/0AvAGU5cs4E)
 ### Установка.
 
