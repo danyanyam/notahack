@@ -16,6 +16,8 @@
 
 `!git clone https://github.com/danyanyam/notahack.git`
 
+`cd notahack`
+
 2. Скачиваем веса проекта
 
   - `!wget http://alphacephei.com/kaldi/models/vosk-model-ru-0.10.zip` - спич2текст
