@@ -6,7 +6,7 @@
   1. bash-скрипты. Используются для парсинга всех звуков системы. Скрипт позволяет использовать нейросеть в любых приложениях, издающих звук (Zoom, Discord, MS Teams, Skype и так далее)
   2. python-скрипты. Используются для препроцессинга, логгирования сказанного в текст
   3. jupyter-notebook с туториалом [tutorial.ipynb](https://github.com/danyanyam/notahack/blob/master/tutorial.ipynb)
-  4. log.txt - файл формата выходного файла
+  4. [log.txt](https://github.com/danyanyam/notahack/blob/master/log.txt) - файл формата выходного файла
 
 **[Видео](https://youtu.be/0AvAGU5cs4E) с примером использования:**
 [![Видео с использованием](https://i.imgur.com/MsJFLnB.png)](https://youtu.be/0AvAGU5cs4E)
